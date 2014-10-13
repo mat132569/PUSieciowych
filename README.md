@@ -56,7 +56,7 @@ __W pełni abstrakcyjna klasa__
  # W DOT.NET
  jeśli dziedzicze po klasie silnik to tak naprawdze dziedziczę również po klasie Object;
  
- class Silnk
+ ```class Silnk
  {
  }
  class Samochod : Silnik <-- dziedziczy również po silnik.
@@ -75,7 +75,7 @@ public int Wiek
   
   
   Osoba os = new Osoba(){dataUrodzenia ="1987-01-01"};
-  WriteLine('os.Wiek');<---wynik
+  WriteLine('os.Wiek');<---wynik```
 
 
 
