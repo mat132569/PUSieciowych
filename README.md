@@ -25,7 +25,7 @@ __XML__ - EXTENSIBLE MARKUP LANGUAGE
 
 __Representational State Transfer__ – wzorzec architektury oprogramowania wywiedziony z doświadczeń przy pisaniu specyfikacji protokołu HTTP. REST jest wzorcem architektury oprogramowania wprowadzającym dobre praktyki tworzenia architektury aplikacji rozproszonych.
 
-REST wprowadza terminy takie jak jednorodny interfejs, bezstanowa komunikacja, zasób, reprezentacja, HATEOAS.
+*REST* wprowadza terminy takie jak jednorodny interfejs, bezstanowa komunikacja, zasób, reprezentacja, HATEOAS.
 
 Zaproponowany przez Roya T. Fieldinga w 2000 roku[1].
 
