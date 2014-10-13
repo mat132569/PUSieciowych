@@ -33,3 +33,10 @@ Jest wykorzystywany przez wiele frameworków aplikacji internetowych np. Jersey,
 
 Charakterystycznym elementem REST jest "restowy" (RESTful) interfejs usług webowych, w którym parametry wywołania danej usługi są umieszczane w ścieżce adresu URL, a nie w części przeznaczonej na parametry, jak w klasycznych wywołaniach GET lub POST:
 
+
+__Web Services Description Language (WSDL)__ – opracowany przez Microsoft i IBM, oparty na XML język do definiowania usług internetowych.
+
+Język opisuje protokoły i formaty używane przez usługi internetowe. Opisy WSDL mogą być umieszczane w rejestrze UDDI – kombinacja WSDL i UDDI ma się przyczynić do promocji rozwiązań usług internetowych.
+
+WSDL wykorzystuje język XML do opisu punktów dostępu do usług internetowych. Język WSDL definiuje zestaw kilku struktur XML pozwalających na pełny opis usług (struktury danych wymienianych z usługą, sposób połączenia z usługą, najczęściej HTTP).
+
