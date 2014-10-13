@@ -40,3 +40,43 @@ Język opisuje protokoły i formaty używane przez usługi internetowe. Opisy WS
 
 WSDL wykorzystuje język XML do opisu punktów dostępu do usług internetowych. Język WSDL definiuje zestaw kilku struktur XML pozwalających na pełny opis usług (struktury danych wymienianych z usługą, sposób połączenia z usługą, najczęściej HTTP).
 
+__W pełni abstrakcyjna klasa__
+
+ interface MojInterface
+ {
+    int Dodawanie(int a, int b);
+    int Odejmowanie(int a, int b);
+ }
+ 
+ class Samochod : MojInterface
+ class Autobus: MojInterface
+ MojInterface abc = new Samochod();
+ abc.Dodawanie();
+ 
+ # W DOT.NET
+ jeśli dziedzicze po klasie silnik to tak naprawdze dziedziczę również po klasie Object;
+ 
+ class Silnk
+ {
+ }
+ class Samochod : Silnik <-- dziedziczy również po silnik.
+ 
+**propercja w przykładzie z wiekiem**
+class przyklad
+{
+DateTime dataUrodzenia;
+public int Wiek
+  {
+    get
+      {
+      return DateTime.New.Year - dataUrodzenia.Year;
+      }
+  }
+  
+  
+  Osoba os = new Osoba(){dataUrodzenia ="1987-01-01"};
+  WriteLine('os.Wiek');<---wynik
+
+
+
+ 
