@@ -10,7 +10,7 @@ RMI - Remote Method Call
 OMG: wyprodukowała CORBA która pozwalała na komunikację obiektów z różnych technologii.
 
 
-__SOAP__ (ang.) Simple Object Access Protocol – protokół wywoływania zdalnego dostępu do obiektów, wykorzystujący XML do kodowania wywołań i najczęściej protokołów HTTP lub RPC do ich przenoszenia, możliwe jest jednak wykorzystanie innych protokołów do transportu danych.
+##__SOAP__ (ang.) Simple Object Access Protocol – protokół wywoływania zdalnego dostępu do obiektów, wykorzystujący XML do kodowania wywołań i najczęściej protokołów HTTP lub RPC do ich przenoszenia, możliwe jest jednak wykorzystanie innych protokołów do transportu danych.
 
 __Usługa internetowa__ (ang. web service) – realizowana programistycznie usługa świadczona poprzez sieć telekomunikacyjną, a w tym sieć komputerową, w szczególności przez Internet.
 
