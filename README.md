@@ -81,4 +81,8 @@ public int Wiek
 
 __WCF - Windows Communication Foundation__ (nazwa kodowa Indigo) to następna generacja usług sieciowych. Daje ona wiele nowych możliwości użytkownikom, którzy wymagają, aby ich usługi sieciowe były wszechstronne. WCF jest warstwą komunikacyjną API WinFX i docelowo będzie dostępna dla Microsoft Windows XP, 2003 i Visty.
 
- 
+ HOSTING: możliwości
+ 1) samochostowanie.
+ 2) Windows service
+ 3) IIS
+ 4) azure
