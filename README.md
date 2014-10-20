@@ -77,6 +77,8 @@ public int Wiek
   Osoba os = new Osoba(){dataUrodzenia ="1987-01-01"};
   WriteLine('os.Wiek');<---wynik```
 
+##zajecia 3
 
+__WCF - Windows Communication Foundation__ (nazwa kodowa Indigo) to następna generacja usług sieciowych. Daje ona wiele nowych możliwości użytkownikom, którzy wymagają, aby ich usługi sieciowe były wszechstronne. WCF jest warstwą komunikacyjną API WinFX i docelowo będzie dostępna dla Microsoft Windows XP, 2003 i Visty.
 
  
